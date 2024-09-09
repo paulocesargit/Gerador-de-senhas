@@ -24,6 +24,6 @@ Basta clicar [AQUI](https://password-generator-theta-nine.vercel.app/) que você
 Projeto feito a partir de uma vídeo aula gratuita no YouTube, no canal Sujeito Programador 📺.</br>
 https://www.youtube.com/@Sujeitoprogramador
 
-# Autor 👩🏻
+# Autor 
 
 Paulo Cesar </br>
