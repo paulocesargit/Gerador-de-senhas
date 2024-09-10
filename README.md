@@ -3,10 +3,6 @@
 # Sobre o gerador ⚙️
 Esse projeto foi feito para aperfeiçoar minhas habilidades com o JS na criação de funções e eventos.</br>
 
-# Como acessar o projeto? 🎯
-
-Basta clicar [AQUI](https://password-generator-theta-nine.vercel.app/) que você será direcionado!
-
 # Apresentação 👀🔒
 
 <p align="center">
