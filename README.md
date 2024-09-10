@@ -13,7 +13,6 @@ Esse projeto foi feito para aperfeiçoar minhas habilidades com o JS na criaçã
 - HTML.
 - CSS.
 - JavaScript.
-- Git e Github.
 
 # Inspiração 💡
 
