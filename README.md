@@ -1,7 +1,7 @@
 <h1 align="center"> Gerador de Senha ⚙️</h1>
 
 # Sobre o gerador ⚙️
-Esse projeto foi feito para aperfeiçoar minhas habilidades com o JS na criação de funções e eventos.</br>
+Esse projeto foi feito para aperfeiçoar minhas habilidades com o JS na criação de funções.</br>
 
 # Apresentação 👀
 
