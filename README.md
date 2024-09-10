@@ -6,7 +6,7 @@ Esse projeto foi feito para aperfeiçoar minhas habilidades com o JS na criaçã
 # Apresentação 👀
 
 <p align="center">
-  <img alt="Imagem de apresentação" src="./assets/apresentacao.png" width="100%">
+  <img alt="Imagem de apresentação" src="./assets/Gerador.PNG" width="100%">
 </p>
 
 # Tecnologias 💻
