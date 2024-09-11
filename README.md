@@ -9,6 +9,10 @@ Esse projeto foi feito para aperfeiçoar minhas habilidades com o JS na criaçã
   <img alt="Imagem de apresentação" src="./assets/Gerador.PNG" width="100%">
 </p>
 
+## Como acessar o projeto? 🤔
+
+Basta clicar [AQUI](https://paulocesargit.github.io/Gerador-de-senhas/index.html) que você será direcionado!
+
 # Tecnologias 💻
 - HTML.
 - CSS.
